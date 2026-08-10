@@ -167,7 +167,7 @@ const styles = StyleSheet.create({
   selector: {
     flexDirection: 'row',
     backgroundColor: '#F15B23',
-    justifyContent: 'space-between',
+    justifyContent: 'center',
     alignItems: 'center',
     borderRadius: 6,
     paddingHorizontal: 12,
